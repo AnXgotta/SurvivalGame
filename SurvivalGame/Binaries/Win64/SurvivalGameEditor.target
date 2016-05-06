@@ -1,0 +1,33 @@
+{
+	"TargetName" : "SurvivalGameEditor",
+	"Platform" : "Win64",
+	"Configuration" : "Development",
+	"BuildId" : "44a5cf64-4a92-463a-abb5-9a3c0b23a282",
+	"Version" : 
+	{
+		"MajorVersion" : 4,
+		"MinorVersion" : 11,
+		"PatchVersion" : 2,
+		"Changelist" : 2946394,
+		"IsLicenseeVersion" : 0,
+		"BranchName" : "++UE4+Release-4.11"
+	},
+	"BuildProducts" :
+	[
+		{
+			"Path" : "$(ProjectDir)\\Binaries\\Win64\\UE4Editor-SurvivalGame.dll",
+			"Type" : "DynamicLibrary"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Binaries\\Win64\\UE4Editor-SurvivalGame.pdb",
+			"Type" : "SymbolFile"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\UE4Editor-SurvivalGame.lib",
+			"Type" : "ImportLibrary"
+		}
+	],
+	"RuntimeDependencies" :
+	[
+	]
+}
